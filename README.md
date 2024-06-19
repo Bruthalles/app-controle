@@ -2,16 +2,16 @@
  
 # Requistos
 
-*tela de produtos (principal)
-*tela cadastrar produtos
-*barra de menu
+* tela de produtos (principal)
+* tela cadastrar produtos
+* barra de menu
 
 # Sub-requisitos
 
-*configurações
-*tela funcionarios
-*tela cadastrar funcionarios
-*app modo adm e usuário
+* configurações
+* tela funcionarios
+* tela cadastrar funcionarios
+* app modo adm e usuário
 
 # anotações 
 
