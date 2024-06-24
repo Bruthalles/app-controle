@@ -10,7 +10,8 @@ export default function GerarProds(){
 
     return(
         <View>
-
+            <Text>nome:</Text>
+            <Text>preço</Text>
 
         </View>
     )

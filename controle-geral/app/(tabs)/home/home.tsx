@@ -1,10 +1,8 @@
 import React from 'react'; 
 import { View,ScrollView, StyleSheet, StatusBar, Text, TextInput,TouchableOpacity, } from 'react-native';
-import Produtos from './produtos/produtos';
-import GerarProds from './GerarProds';
-import DrawerNavigator from '../navigation/drawer';
 
-export default function App() {
+
+export default function Home() {
   return (
     <View>
       <StatusBar 
@@ -12,7 +10,13 @@ export default function App() {
         barStyle={'light-content'}
         backgroundColor={'#000'}/>
 
-        <DrawerNavigator/>
+        <TouchableOpacity>Meus produtos</TouchableOpacity>
+
+        <TouchableOpacity>Funcionários</TouchableOpacity>
+
+        
+
+        
 
       
 
